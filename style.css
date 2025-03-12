@@ -1,0 +1,18 @@
+.pic{
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 25%;
+    top: 25%;
+    cursor:pointer;
+}
+
+.container{
+    background-color: rgba(226, 87, 87, 0.537);
+}
+
+h1{
+    text-align: center;
+    color: beige;
+
+}
